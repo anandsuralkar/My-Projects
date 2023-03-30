@@ -1,0 +1,6 @@
+pandas
+time
+selenium
+bs4
+chromedriver
+matplotlib
