@@ -1,4 +1,4 @@
 # My projects
-This repository contains all the personal projects made by me. 
-The projects are in the domain for website development, website scraping, 
+This repository contains all the personal projects that I made in last 2years.
+The projects are in the domain of full stack website development, website scraping, 
 AIML, game development, etc. 
