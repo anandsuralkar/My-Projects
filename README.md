@@ -1,3 +1,4 @@
-# Computer-science
-This repo contains all the codes that my computer science acadamic learning required.
-codes are written by me.
+# My projects
+This repository contains all the personal projects made by me. 
+The projects are in the domain for website development, website scraping, 
+AIML, game development, etc. 
